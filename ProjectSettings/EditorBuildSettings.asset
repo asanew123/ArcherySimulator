@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: a0a2587105950b7448653ab18d5a9bb3
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: bea9995294a1d494182b0f2529aabe0b
+  - enabled: 1
+    path: Assets/Scenes/Target.unity
+    guid: 91b68820747675b4e82b6717ac1625eb
+  - enabled: 1
+    path: Assets/Scenes/Hunting.unity
+    guid: 0188b972cc622c345925dbaf65a55a32
+  - enabled: 1
+    path: Assets/Scenes/Siege.unity
+    guid: d65e73dc99898f143b8126912a85c289
+  - enabled: 1
+    path: Assets/Scenes/Siege_GameOver.unity
+    guid: fadfecb6ef095c94fb9e81e6e545c50e
+  - enabled: 1
+    path: Assets/Scenes/Siege_GameClear.unity
+    guid: 7f4e6940283d2d249b56761e564f8da9
+  - enabled: 1
+    path: Assets/Scenes/Hunting_GameOver.unity
+    guid: b4ee28858b5c03540bb0a753d35bd0fd
+  - enabled: 1
+    path: Assets/Scenes/Hunting_GameClear.unity
+    guid: 74039617b4e6ffa43ad54b4d80909660
+  m_configObjects: {}

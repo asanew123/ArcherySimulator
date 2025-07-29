@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder Zone
+  - Attack Zone
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - X10
+  - Walk Zone
+  - Enemy
+  - Head
+  - Arrow
+  - Arrow2
+  - Armor
+  - Weapon
+  - Ladder_Not
+  - Ground
+  - Object
+  - Effect
+  - Projectile
+  - Slow Zone
+  - Super Slow Zone
+  - Target
+  - Arrow3
+  - Body
+  - Arm
+  - Leg
+  - Shot_Text
+  - Delete Zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

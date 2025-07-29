@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e9ae72004049002419f319ff91568eb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rab: {fileID: 446912532125187912, guid: c0c9a5e5f099bc546b0b2483e8081bf8, type: 3}
+  - Fo: {fileID: 2602076752726657308, guid: 7153e2b3847ddf441a50c81d7c783ffe, type: 3}
+  - Wo: {fileID: 6837526847501860275, guid: 4d0b43295112bba46a6f92a6aff45570, type: 3}
+  - Eag: {fileID: 6274704851040447887, guid: 94c3192032c8ec84a89c649409019389, type: 3}
+  - Bea: {fileID: 6838663250019331862, guid: bc2d0adbc53f0fe4b97fe52e26649717, type: 3}
+  - DB: {fileID: 8467196865836626588, guid: c12d176758a9f0f438bc039297da531a, type: 3}
+  - DSE: {fileID: 4952570160561233844, guid: 3e96aa4fd694ba0408f62c0e4e6425e7, type: 3}
+  - Eag_F: {fileID: 2949252048999330189, guid: 4532fd3cff17db147a8f399d751a632e, type: 3}
+  - Mino: {fileID: 7934793422829225013, guid: a7667f717d9768645ad9f9528528d632, type: 3}
+  - GM: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
